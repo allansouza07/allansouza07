@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 </div>
-Me chamo Allan!
+Bem vindo(a) ao meu perfil!
 
 - 📚 Estudo ADS no IFSP e atualmente estou estudando aplicações front-end e banco de dados.
 ---
