@@ -35,29 +35,6 @@ Bem vindo(a) ao meu perfil!
        src="https://github-readme-activity-graph.vercel.app/graph?username=allansouza07&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true" />
 </div>
 
-name: Generate Snake
- 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
- 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: allansouza07
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
