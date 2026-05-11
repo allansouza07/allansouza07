@@ -3,7 +3,7 @@
 </div>
 Bem vindo(a) ao meu perfil!
 
-- 📚 Estudo ADS no IFSP e atualmente estou estudando aplicações front-end e banco de dados.
+- 📚 Sou estudante de ADS no IFSP e atualmente estou estudando aplicações front-end e banco de dados.
 ---
 ## 🌐 Redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/allansouzagg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allan-de-souza-2917622b9?utm_source=share_via&utm_content=profile&utm_medium=member_ios/?locale=en)
@@ -34,6 +34,30 @@ Bem vindo(a) ao meu perfil!
   <img 
        src="https://github-readme-activity-graph.vercel.app/graph?username=allansouza07&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true" />
 </div>
+
+name: Generate Snake
+ 
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+ 
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: luanacodes
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
