@@ -48,7 +48,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: luanacodes
+          github_user_name: allansouza07
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
