@@ -79,34 +79,6 @@ Tenho interesse em desenvolver sistemas, trabalhar com bancos de dados, automati
 
 ---
 
-## 📝 Atividades recentes
-
-Últimos commits identificados nos meus repositórios públicos:
-
-| Data | Projeto | Descrição |
-|:---:|:---|:---|
-| 03/11/2026 | [Data-Pulse](https://github.com/allansouza07/Data-Pulse) | [Mensagem de apresentação do sistema](https://github.com/allansouza07/Data-Pulse/commit/c5727b8a0eed4238a99fd9c331f16081b0a10408) |
-| 01/11/2026 | [CalculaTudo](https://github.com/allansouza07/CalculaTudo_) | [Integração com API de conversão de moedas](https://github.com/allansouza07/CalculaTudo_/commit/9676c72648b5e6446eea53fe08ce12e2b3503f63) |
-| 29/10/2026 | [Imobiliária Project](https://github.com/allansouza07/imobiliaria-project) | [Importação de dados e primeiras funções](https://github.com/allansouza07/imobiliaria-project/commit/8d07b63b95e92196d776fb03dbe4c1a306819b3e) |
-| 25/10/2026 | [CalculaTudo](https://github.com/allansouza07/CalculaTudo_) | [Estruturação do verificador de CPF](https://github.com/allansouza07/CalculaTudo_/commit/b4c4c049a79209d2ed40e35e5f8947957ab43830) |
-| 10/09/2026 | [POO Python](https://github.com/allansouza07/POO_Python_project) | [Adição do projeto de orientação a objetos](https://github.com/allansouza07/POO_Python_project/commit/27144defa7d361534e3a5cdf358fd79bf5e70a31) |
-
-[![Ver todos os commits](https://img.shields.io/badge/Ver%20todos%20os%20commits-181717?style=for-the-badge&logo=github)](https://github.com/allansouza07?tab=repositories)
-
----
-
-## 🚀 Alguns dos meus projetos
-
-| Projeto | Descrição |
-|:---|:---|
-| [Achados e Perdidos IFSP](https://github.com/allansouza07/Achados_Perdidos-IFSP) | Sistema para gerenciamento de objetos perdidos e encontrados no ambiente acadêmico. |
-| [CalculaTudo](https://github.com/allansouza07/CalculaTudo_) | Plataforma de calculadoras e ferramentas de utilidade. |
-| [Data-Pulse](https://github.com/allansouza07/Data-Pulse) | Projeto voltado ao universo de dados. |
-| [POO Python](https://github.com/allansouza07/POO_Python_project) | Projeto de estudos de Programação Orientada a Objetos. |
-| [Relatório Elenco SQL](https://github.com/allansouza07/relatorio_elencoSQL) | Modelagem e consultas SQL aplicadas a um banco de dados de futebol. |
-
----
-
 <div align="center">
 
 ### 💡 "Transformando conhecimento em código e dados em soluções."
